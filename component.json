@@ -4,6 +4,6 @@
   "dependencies": {
     "requirejs": "~2.1.9",
     "requirejs-text": "~2.0.10",
-    "ejs": "~0.8.4"
+    "ejs": "~0.8.5"
   }
 }
