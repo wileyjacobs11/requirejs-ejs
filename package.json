@@ -2,7 +2,7 @@
   "name": "requirejs-ejs-plugin",
   "description": "RequireJS EJS Plug-in",
   "author": "Brad Whitcomb <git@bradwhitcomb.com>",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "contributors": [
     {
       "name": "Brad Whitcomb",
