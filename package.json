@@ -1,5 +1,5 @@
 {
-  "name": "requirejs-ejs-plugin",
+  "name": "@visallo/requirejs-ejs-plugin",
   "description": "RequireJS EJS Plug-in",
   "author": "Brad Whitcomb <git@bradwhitcomb.com>",
   "version": "0.3.1",
